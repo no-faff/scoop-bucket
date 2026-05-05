@@ -1,11 +1,11 @@
 {
-    "version": "1.5.3",
+    "version": "1.6.0",
     "description": "Open source tool to safely clean orphaned Windows Installer files and reclaim disk space.",
     "homepage": "https://github.com/no-faff/InstallerClean",
     "license": "MIT",
     "notes": "Requires administrator privileges to access C:\\Windows\\Installer.",
-    "url": "https://github.com/no-faff/InstallerClean/releases/download/v1.5.3/InstallerClean-portable.exe",
-    "hash": "3eb1f76733a1e03d54f72e14f8d1f8767d30598b79b581a4e3f51f889e627ef4",
+    "url": "https://github.com/no-faff/InstallerClean/releases/download/v1.6.0/InstallerClean-portable.exe",
+    "hash": "af48fd05d9e3c49064426ad2f0f987ef8f8d3771a497a3347e05793e40ade290",
     "bin": "InstallerClean-portable.exe",
     "shortcuts": [
         [
